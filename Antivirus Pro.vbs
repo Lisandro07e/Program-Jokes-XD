@@ -1,0 +1,16 @@
+Do
+A = Msgbox ("Your PC Was Infected For A virus wait what this Solucioned Yes",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox (".",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("..",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("...",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox (".",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("..",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("...",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox (".",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("..",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("...",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox (".",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("..",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("...",16,"Antivirus Pro @Lisandro_Windows")
+A = Msgbox ("Error fatal reset you pc NOW",16,"Antivirus Pro @Lisandro_Windows")
+Loop
