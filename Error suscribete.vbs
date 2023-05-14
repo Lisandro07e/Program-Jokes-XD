@@ -1,0 +1,1 @@
+A = Msgbox ("El PC Esta Rota Suscribete Para Areglarlo y ademas me ayudas mucho :D",16,"@Lisandro_Windows")
